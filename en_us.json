@@ -1,0 +1,12 @@
+{
+  "key.realweather.radar": "Open weather radar",
+  "key.categories.realweather": "RealWeather",
+  "screen.realweather.radar": "RealWeather Radar",
+  "radar.mode.refl": "Mode: Reflectivity",
+  "radar.mode.vel": "Mode: Velocity",
+  "radar.zoom_in": "Zoom +",
+  "radar.zoom_out": "Zoom -",
+  "radar.older": "< Older",
+  "radar.newer": "Newer >",
+  "radar.live": "Live"
+}

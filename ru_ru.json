@@ -1,0 +1,12 @@
+{
+  "key.realweather.radar": "Открыть погодный радар",
+  "key.categories.realweather": "RealWeather",
+  "screen.realweather.radar": "Погодный радар RealWeather",
+  "radar.mode.refl": "Режим: отражаемость",
+  "radar.mode.vel": "Режим: радиальная скорость",
+  "radar.zoom_in": "Приблизить",
+  "radar.zoom_out": "Отдалить",
+  "radar.older": "< Раньше",
+  "radar.newer": "Позже >",
+  "radar.live": "Сейчас"
+}
